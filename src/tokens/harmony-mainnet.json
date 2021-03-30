@@ -11,15 +11,23 @@
     "chainId": 1666600000,
     "address": "0xda73f5C25C0D644Afd20dA5535558956B192b262",
     "symbol": "bscMOCHI",
-    "name": "bMOCHI - BSC Bridged peg",
+    "name": "bMOCHI - BSC Bridged MOCHI",
     "decimals": 18,
     "logoURI": "https://s3-us-west-1.amazonaws.com/tokens.mochiswap.io/images/bsc-mochi.png"
   },
   {
     "chainId": 1666600000,
+    "address": "0x0FF7d1583662b0FC5862E92E807A0219321dB518",
+    "symbol": "ROT",
+    "name": "1ROT - ETH Bridged ROT",
+    "decimals": 18,
+    "logoURI": "https://s3-us-west-1.amazonaws.com/tokens.mochiswap.io/images/rotten.png"
+  },
+  {
+    "chainId": 1666600000,
     "address": "0x53051d5545745F600232a885a65479cA832198fb",
     "symbol": "bscAPESOX",
-    "name": "APESOX - BSC Bridged peg",
+    "name": "APESOX - BSC Bridged APESOX",
     "decimals": 18,
     "logoURI": "https://s3-us-west-1.amazonaws.com/tokens.mochiswap.io/images/mochi-apesox.png"
   },
@@ -30,6 +38,13 @@
     "name": "Binance USD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xEf977d2f931C1978Db5F6747666fa1eACB0d0339",
+    "symbol": "DAI",
+    "name": "DAI - ETH Bridged peg",
+    "decimals": 18,
   },
   {
     "chainId": 1666600000,
