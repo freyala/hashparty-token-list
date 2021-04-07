@@ -95,4 +95,12 @@
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png"
   }
+  {
+    "chainId": 1666600000,
+    "address": "0x78f3092515647B8550Bd374c9894C2dB64829d34",
+    "symbol": "FYLA",
+    "name": "Freyala",
+    "decimals": 5,
+    "logoURI": "https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png"
+  }
 ]
